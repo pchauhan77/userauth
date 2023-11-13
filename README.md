@@ -1,15 +1,14 @@
 # userauth web application using NestJS, React and MongoDB
 
-Project setup:
 
-Frontend:
+# Frontend:
 
 npm install
 
 Run:
 npm run start
 
-Backend:
+# Backend:
 
 update env file
 
