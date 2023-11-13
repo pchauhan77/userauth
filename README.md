@@ -1,4 +1,4 @@
-# userauth
+# userauth web application using NestJS, React and MongoDB
 
 Project setup:
 
